@@ -49,3 +49,6 @@ model-viewer {
   float: left;
   transition: width 0.3s;
 }
+:root{
+--ar-button-display: hidden;
+}
